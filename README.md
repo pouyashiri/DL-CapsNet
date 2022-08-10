@@ -7,11 +7,11 @@ https://github.com/brjathu/deepcaps
 
 
 # Installation
-`conda install -c anaconda tensorflow-gpu=1.13.1`
-`conda install -c anaconda keras-gpu`
-`conda install -c anaconda scipy=1.2*`
-`conda install -c conda-forge matplotlib`
-`conda install -c conda-forge pillow`
+```conda install -c anaconda tensorflow-gpu=1.13.1
+conda install -c anaconda keras-gpu
+conda install -c anaconda scipy=1.2*
+conda install -c conda-forge matplotlib
+conda install -c conda-forge pillow```
 
 # Usage
 The "Main.py" file trains the network and prints the results to the files in the specified folder (input args). <br />
