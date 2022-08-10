@@ -2,7 +2,7 @@
 This is the code for Deep and Light Capsule Network (DL-CapsNet) paper published in DASIP2022.
 
 The following codes are used for this project: <br />
-https://github.com/XifengGuo/CapsNet-Keras
+https://github.com/XifengGuo/CapsNet-Keras <br />
 https://github.com/brjathu/deepcaps
 
 
